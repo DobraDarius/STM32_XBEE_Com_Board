@@ -1,1 +1,2 @@
+ In this folder readers will find hands-on exercises in order to get used to STM32CUBE IDE, STM32CUBEMX and STM32F407G-DISC1 microcontroller
 
